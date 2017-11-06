@@ -1,0 +1,2 @@
+# Linked-List-Creator
+Console application which allows the user to alternate between creating Circular and Double-Linked Lists of integers and doubles. Multiple lists can be created, sorted, stored, deleted, or merged together in ascending order. The interface is user-friendly, making it very simple to navigate to achieve desired goal. With a little more work, it will be able to edit and organize text from files, sort them by label and number, then export them to a new file.
